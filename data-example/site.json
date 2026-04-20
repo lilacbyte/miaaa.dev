@@ -1,0 +1,14 @@
+{
+  "title": "title",
+  "description": "yourdescription",
+  "embedColor": "#ffffff",
+  "header": "hi!",
+  "about": "about me text here",
+  "refreshSeconds": 120,
+  "experienced": [
+    { "name": "java", "icon": "fa-brands fa-java" }
+  ],
+  "interests": [
+    { "name": "reading", "icon": "fa-solid fa-book" }
+  ]
+}

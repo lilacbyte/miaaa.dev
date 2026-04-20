@@ -1,0 +1,11 @@
+[
+  {
+    "name": "example-project",
+    "url": "https://github.com/yourname/example-project",
+    "description": "Short description of what it does.",
+    "period": "2026-present",
+    "featured": true,
+    "active": true,
+    "tags": ["TypeScript", "Next.js"]
+  }
+]
